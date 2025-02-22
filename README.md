@@ -1,6 +1,6 @@
 <img src="https://your-image-link.com/banner.gif" alt="TidurDikit Header" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=33FF99&width=435&lines=TidurDikit;AIoT+%7C+Web+Development+%7C+Tech+Education;Sleep+Less,%2C+Build+More)](https://github.com/tidurdikit)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=33FF99&width=435&lines=TidurDikit;AIoT+%7C+Tech+Education;Sleep+Less%2C+Build+More)](https://github.com/tidurdikit)
 
 # About TidurDikit
 
