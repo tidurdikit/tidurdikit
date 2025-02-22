@@ -52,10 +52,19 @@
 
 ---
 
+## 🎥 Latest YouTube Videos
+
+[![Latest Video](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+
+[![YouTube Channel](https://img.shields.io/badge/Subscribe-YouTube-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@tidurdikit)
+
+---
+
 ## 📬 Connect with Us
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tidurdikit)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@tidurdikit)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@tidurdikit)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://tidurdikit.github.io)
 
 💡 _"Sleep Less, Build More"_
